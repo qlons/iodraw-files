@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JsK78SsmSyLdlU-tz1SE" name="第 2 页">
-    <mxGraphModel dx="2780" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3298" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,6 +211,9 @@
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-4" value="关键技术策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="1031" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="205" width="243" height="48" as="geometry" />
@@ -241,6 +244,12 @@
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: DIP/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="288" y="1196" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-16" value="TRS: 扩散残差采样-细节还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-642" y="1290" width="227" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-17" value="FMH: Mamba自回归-结构建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-643" y="1406" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
           <mxGeometry relative="1" as="geometry">
@@ -309,6 +318,20 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="233" y="1229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-682" y="1323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-682" y="1439" />
             </Array>
           </mxGeometry>
         </mxCell>
