@@ -234,13 +234,13 @@
           <mxGeometry x="200" y="700" width="430" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="卷积模式演进: 标准卷积/ 部分卷积/ 门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="780" width="250" height="44" as="geometry" />
+          <mxGeometry x="200" y="780" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力机制: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="850" width="250" height="44" as="geometry" />
+          <mxGeometry x="200" y="847" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失函数重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="920" width="250" height="44" as="geometry" />
+          <mxGeometry x="200" y="913" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: 深度图像/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="980" width="250" height="44" as="geometry" />
