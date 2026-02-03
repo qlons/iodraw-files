@@ -54,7 +54,7 @@
           <mxGeometry x="9" y="230" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="199" y="60" width="131" height="40" as="geometry" />
+          <mxGeometry x="199" y="60" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="199" y="230" width="150" height="40" as="geometry" />
