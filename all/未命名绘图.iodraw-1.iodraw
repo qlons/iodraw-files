@@ -206,9 +206,6 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-90" y="360" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-90" y="622" width="188" height="48" as="geometry" />
         </mxCell>
@@ -293,6 +290,12 @@
             <Array as="points">
               <mxPoint x="-682" y="1439" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-41" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108" y="656" as="sourcePoint" />
+            <mxPoint x="269" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
