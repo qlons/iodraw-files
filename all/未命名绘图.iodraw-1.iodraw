@@ -201,7 +201,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="440" width="188" height="48" as="geometry" />
+          <mxGeometry x="-390" y="570" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="280" width="156" height="48" as="geometry" />
@@ -219,28 +219,28 @@
           <mxGeometry x="258" y="205" width="243" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="310" width="215" height="66" as="geometry" />
+          <mxGeometry x="258" y="307" width="215" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="419" width="231" height="48" as="geometry" />
+          <mxGeometry x="258" y="427" width="231" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020-22: Transformer/频域 LaMa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="518" width="254" height="66" as="geometry" />
+          <mxGeometry x="258" y="529" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022-24: 扩散模型 DDPM/SD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="634" width="191" height="66" as="geometry" />
+          <mxGeometry x="258" y="640" width="191" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024至今: 多模态/意图对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="750" width="257" height="48" as="geometry" />
+          <mxGeometry x="258" y="761" width="257" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="模式演进: 掩码感知/多阶段融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="848" width="213" height="66" as="geometry" />
+          <mxGeometry x="258" y="863" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="964" width="222" height="66" as="geometry" />
+          <mxGeometry x="258" y="974" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="1080" width="206" height="66" as="geometry" />
+          <mxGeometry x="258" y="1085" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: DIP/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="1196" width="197" height="66" as="geometry" />
