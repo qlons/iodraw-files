@@ -219,28 +219,28 @@
           <mxGeometry x="259" y="360" width="351" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="447" width="351" height="44" as="geometry" />
+          <mxGeometry x="259" y="440" width="351" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016–2019：对抗生成与特征屏蔽（GAN + 编码器-解码器）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="495" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="520" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020–2022：频域感知与长程建模（Transformer / 频域卷积）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="582" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="601" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022–2024：扩散概率模型与潜在空间（DDPM / LDM）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="670" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="681" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024–至今：多模态意图对齐与极速生成（多模态引导 + 蒸馏加速）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="757" width="341" height="44" as="geometry" />
+          <mxGeometry x="259" y="761" width="341" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="卷积模式演进: 标准卷积/ 部分卷积/ 门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="820" width="250" height="44" as="geometry" />
+          <mxGeometry x="259" y="841" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力机制: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="907" width="250" height="44" as="geometry" />
+          <mxGeometry x="259" y="922" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失函数重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="995" width="250" height="44" as="geometry" />
+          <mxGeometry x="259" y="1002" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: 深度图像/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="1082" width="250" height="44" as="geometry" />
