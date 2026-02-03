@@ -61,12 +61,8 @@
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-318" value="其它基于先验知识的方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="850" y="1162" width="236" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BqFtZxSYKGxGxmVLAj0w-319" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-301">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="221" y="103" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BqFtZxSYKGxGxmVLAj0w-319" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-301">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-320" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.51;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-302">
           <mxGeometry relative="1" as="geometry">
