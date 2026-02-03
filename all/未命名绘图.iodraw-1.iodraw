@@ -191,11 +191,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-150" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-520" y="440" width="188" height="48" as="geometry" />
         </mxCell>
@@ -330,6 +325,9 @@
               <mxPoint x="233" y="1461" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-332" y="414" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
