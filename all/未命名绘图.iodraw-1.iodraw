@@ -193,63 +193,63 @@
         <mxCell id="1" parent="0" />
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;" edge="1" parent="1" target="gfNI4ILFNZ9B_shdAE2y-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="149" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;" edge="1" parent="1" target="gfNI4ILFNZ9B_shdAE2y-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="149" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;" edge="1" parent="1" target="gfNI4ILFNZ9B_shdAE2y-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="149" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="220" width="148" height="40" as="geometry" />
+          <mxGeometry x="9" y="230" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="150" height="40" as="geometry" />
+          <mxGeometry x="199" y="60" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="150" height="40" as="geometry" />
+          <mxGeometry x="199" y="230" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-4" value="关键技术策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="150" height="40" as="geometry" />
+          <mxGeometry x="199" y="460" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯 / Navier-Stokes / FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="20" width="350" height="40" as="geometry" />
+          <mxGeometry x="389" y="30" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="77" width="320" height="40" as="geometry" />
+          <mxGeometry x="389" y="87" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016–2019：对抗生成与特征屏蔽（GAN + 编码器-解码器）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="133" width="420" height="40" as="geometry" />
+          <mxGeometry x="389" y="143" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020–2022：频域感知与长程建模（Transformer / 频域卷积）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="430" height="40" as="geometry" />
+          <mxGeometry x="389" y="200" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022–2024：扩散概率模型与潜在空间（DDPM / LDM）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="247" width="400" height="40" as="geometry" />
+          <mxGeometry x="389" y="257" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024–至今：多模态对齐与极速生成（多模态引导 /蒸馏加速）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="303" width="430" height="40" as="geometry" />
+          <mxGeometry x="389" y="313" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="卷积模式演进: 标准卷积/ 部分卷积/ 门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="320" height="40" as="geometry" />
+          <mxGeometry x="389" y="370" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力机制: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="417" width="250" height="40" as="geometry" />
+          <mxGeometry x="389" y="427" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失函数重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="473" width="250" height="40" as="geometry" />
+          <mxGeometry x="389" y="483" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: 深度图像/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="250" height="40" as="geometry" />
+          <mxGeometry x="389" y="540" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-16" value="TRS: 扩散残差采样-细节还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-642" y="1290" width="227" height="66" as="geometry" />
@@ -300,8 +300,8 @@
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-41" value="" style="startArrow=none;endArrow=none;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;endFill=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="240" as="sourcePoint" />
-            <mxPoint x="461" y="330" as="targetPoint" />
+            <mxPoint x="389" y="250" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
