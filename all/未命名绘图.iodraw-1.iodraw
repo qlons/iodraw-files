@@ -207,13 +207,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="220" width="148" height="40" as="geometry" />
+          <mxGeometry y="220" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="50" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="150" height="40" as="geometry" />
+          <mxGeometry x="180" y="220" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-4" value="关键技术策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="190" y="450" width="150" height="40" as="geometry" />
