@@ -215,7 +215,7 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 扩散/流体/FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯/Navier-Stokes/FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="320" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块: Criminisi/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
