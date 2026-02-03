@@ -192,10 +192,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="544" width="188" height="48" as="geometry" />
+          <mxGeometry x="-520" y="440" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="36" y="258" width="156" height="48" as="geometry" />
+          <mxGeometry x="36" y="270" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="584" width="188" height="48" as="geometry" />
@@ -325,6 +325,9 @@
               <mxPoint x="233" y="1461" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-31" target="gfNI4ILFNZ9B_shdAE2y-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-92" y="290" width="92" height="328" as="geometry" />
