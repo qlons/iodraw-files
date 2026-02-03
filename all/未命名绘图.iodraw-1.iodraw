@@ -225,7 +225,7 @@
           <mxGeometry x="389" y="30" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi / PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="389" y="87" width="320" height="40" as="geometry" />
+          <mxGeometry x="389" y="87" width="331" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016–2019：对抗生成与特征屏蔽（GAN + 编码器-解码器）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="143" width="420" height="40" as="geometry" />
