@@ -11,7 +11,7 @@
           <mxGeometry x="278" y="79" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-302" value="基于深度学习的图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="246" y="562" width="252" height="66" as="geometry" />
+          <mxGeometry x="278" y="553" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-303" value="基于图像块的方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="30" width="188" height="48" as="geometry" />
@@ -64,11 +64,8 @@
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-319" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-301">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BqFtZxSYKGxGxmVLAj0w-320" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.51;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-302">
+        <mxCell id="BqFtZxSYKGxGxmVLAj0w-320" value="" style="startArrow=none;endArrow=block;entryX=0;entryY=0.51;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-300" target="BqFtZxSYKGxGxmVLAj0w-302">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="221" y="595" />
-            </Array>
             <mxPoint x="200" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
