@@ -227,7 +227,7 @@
           <mxGeometry x="360" y="310" width="215" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="271" y="419" width="231" height="48" as="geometry" />
+          <mxGeometry x="262" y="410" width="231" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020-22: Transformer/频域 LaMa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="518" width="254" height="66" as="geometry" />
