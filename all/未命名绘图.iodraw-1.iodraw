@@ -201,10 +201,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="440" width="188" height="48" as="geometry" />
+          <mxGeometry x="-380" y="440" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="37" y="290" width="156" height="48" as="geometry" />
+          <mxGeometry x="-74" y="280" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="570" width="188" height="48" as="geometry" />
