@@ -206,11 +206,16 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="1379" width="125" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="240.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="205" width="243" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="279" y="303" width="215" height="66" as="geometry" />
+          <mxGeometry x="240" y="300" width="215" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="271" y="419" width="231" height="48" as="geometry" />
