@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JsK78SsmSyLdlU-tz1SE" name="第 2 页">
-    <mxGraphModel dx="453" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯 / Navier-Stokes / FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="30" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi / PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="87" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016–2019：对抗生成与特征屏蔽（GAN + 编码器-解码器）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
