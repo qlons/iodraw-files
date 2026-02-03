@@ -230,7 +230,7 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="扩散概率模型与潜在空间（2022–2024）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="670" width="250" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024至今: 多模态/意图对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="多模态意图对齐与极速生成（2024–至今）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="757" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="模式演进: 掩码感知/多阶段融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
