@@ -326,14 +326,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-31" target="gfNI4ILFNZ9B_shdAE2y-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-332" y="414" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="594" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
