@@ -200,10 +200,10 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-1" target="gfNI4ILFNZ9B_shdAE2y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-400" y="622" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-90" y="360" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -215,10 +215,10 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="320" width="250" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="407" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
@@ -251,10 +251,10 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-17" value="FMH: Mamba自回归-结构建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-643" y="1406" width="230" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-19" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-7">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-19" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-20" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-8">
