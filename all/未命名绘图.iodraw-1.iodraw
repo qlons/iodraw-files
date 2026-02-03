@@ -5,61 +5,61 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-374" value="图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2676" width="156" height="48" as="geometry" />
+          <mxGeometry x="142" y="2676" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-375" value="传统图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="2479" width="188" height="48" as="geometry" />
+          <mxGeometry x="170" y="2479" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-376" value="基于深度学习的图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="256" y="2962" width="252" height="66" as="geometry" />
+          <mxGeometry x="49" y="2962" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-377" value="基于图像块的方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="2430" width="188" height="48" as="geometry" />
+          <mxGeometry x="349" y="2430" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-378" value="基于扩散的方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598" y="2528" width="172" height="48" as="geometry" />
+          <mxGeometry x="401" y="2528" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-379" value="单阶段图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="582" y="2627" width="204" height="48" as="geometry" />
+          <mxGeometry x="252" y="2627" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-380" value="渐进式图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="582" y="2971" width="205" height="48" as="geometry" />
+          <mxGeometry x="296" y="2971" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-381" value="基于先验知识的图像修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="558" y="3405" width="252" height="66" as="geometry" />
+          <mxGeometry x="183" y="3405" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-382" value="单一修复结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2578" width="157" height="48" as="geometry" />
+          <mxGeometry x="766" y="2578" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-383" value="多结果修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="908" y="2676" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-384" value="由粗修复到精修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="884" y="2774" width="189" height="48" as="geometry" />
+          <mxGeometry x="661" y="2774" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-385" value="由局部到全局" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2873" width="156" height="48" as="geometry" />
+          <mxGeometry x="811" y="2873" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-386" value="由低分辨率到高分辨率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="868" y="2971" width="220" height="48" as="geometry" />
+          <mxGeometry x="467" y="2971" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-387" value="由结构到内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="3070" width="156" height="48" as="geometry" />
+          <mxGeometry x="856" y="3070" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-388" value="其它渐进式方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="892" y="3168" width="172" height="48" as="geometry" />
+          <mxGeometry x="714" y="3168" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-389" value="基于图像边缘引导方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="868" y="3266" width="220" height="48" as="geometry" />
+          <mxGeometry x="511" y="3266" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-390" value="基于图像梯度引导方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="868" y="3365" width="220" height="48" as="geometry" />
+          <mxGeometry x="556" y="3365" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-391" value="基于标志点引导方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="876" y="3463" width="204" height="48" as="geometry" />
+          <mxGeometry x="609" y="3463" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-392" value="其它基于先验知识的方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="3562" width="236" height="48" as="geometry" />
+          <mxGeometry x="414" y="3562" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BqFtZxSYKGxGxmVLAj0w-393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="BqFtZxSYKGxGxmVLAj0w-374" target="BqFtZxSYKGxGxmVLAj0w-375">
           <mxGeometry relative="1" as="geometry">
