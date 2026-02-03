@@ -216,34 +216,34 @@
           <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="280" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="366" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="366" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="471" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="471" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020-22: Transformer/频域 LaMa" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="557" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="557" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022-24: 扩散模型 DDPM/SD" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="652" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="652" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024至今: 多模态/意图对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="758" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="758" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="模式演进: 掩码感知/多阶段融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="843" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="843" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="939" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="939" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1034" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="1034" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: DIP/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1130" width="250" height="100" as="geometry" />
+          <mxGeometry x="259" y="1130" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-16" value="TRS: 扩散残差采样-细节还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-642" y="1290" width="227" height="66" as="geometry" />
