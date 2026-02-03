@@ -209,7 +209,7 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="9" y="230" width="148" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="199" y="60" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -221,7 +221,7 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="827" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯 / Navier-Stokes / FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯 / Navier-Stokes / FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="30" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于样本块的纹理合成: Criminisi/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
@@ -257,10 +257,10 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-17" value="FMH: Mamba自回归-结构建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="876" width="230" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-19" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-7">
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-19" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-20" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-8">
