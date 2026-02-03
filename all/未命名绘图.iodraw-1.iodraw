@@ -219,7 +219,7 @@
           <mxGeometry x="199" y="460" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-863" y="1357" width="125" height="48" as="geometry" />
+          <mxGeometry x="-600" y="1037" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于偏微分方程: 拉普拉斯 / Navier-Stokes / FMM" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="30" width="350" height="40" as="geometry" />
@@ -252,10 +252,10 @@
           <mxGeometry x="389" y="540" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-16" value="TRS: 扩散残差采样-细节还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-642" y="1290" width="227" height="66" as="geometry" />
+          <mxGeometry x="-379" y="970" width="227" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-17" value="FMH: Mamba自回归-结构建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-643" y="1406" width="230" height="66" as="geometry" />
+          <mxGeometry x="-380" y="1086" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitDx=0;exitDy=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;endFill=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
           <mxGeometry relative="1" as="geometry" />
@@ -287,14 +287,14 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-682" y="1323" />
+              <mxPoint x="-419" y="1003" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-682" y="1439" />
+              <mxPoint x="-419" y="1119" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -303,6 +303,9 @@
             <mxPoint x="389" y="250" as="sourcePoint" />
             <mxPoint x="470" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-42" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
