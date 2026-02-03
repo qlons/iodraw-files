@@ -201,13 +201,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="622" width="188" height="48" as="geometry" />
+          <mxGeometry x="-350" y="592" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-90" y="400" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="622" width="150" height="48" as="geometry" />
+          <mxGeometry x="-90" y="592" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-4" value="关键技术策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-90" y="870" width="150" height="48" as="geometry" />
@@ -222,16 +222,16 @@
           <mxGeometry x="259" y="424" width="351" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016–2019：对抗生成与特征屏蔽（GAN + 编码器-解码器）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="520" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="490" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020–2022：频域感知与长程建模（Transformer / 频域卷积）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="590" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="560" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022–2024：扩散概率模型与潜在空间（DDPM / LDM）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="660" width="262" height="44" as="geometry" />
+          <mxGeometry x="259" y="630" width="262" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024–至今：多模态意图对齐与极速生成（多模态引导 + 蒸馏加速）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="730" width="341" height="44" as="geometry" />
+          <mxGeometry x="259" y="700" width="341" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="卷积模式演进: 标准卷积/ 部分卷积/ 门控卷积" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="780" width="250" height="44" as="geometry" />
@@ -294,8 +294,8 @@
         </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-41" value="" style="startArrow=none;endArrow=none;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;endFill=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="650" as="sourcePoint" />
-            <mxPoint x="181" y="740" as="targetPoint" />
+            <mxPoint x="100" y="620" as="sourcePoint" />
+            <mxPoint x="181" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
