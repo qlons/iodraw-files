@@ -191,6 +191,141 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-1" value="图像修复研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-2" value="传统修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="258" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-3" value="深度学习修复方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="584" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-4" value="关键技术策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1031" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1379" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="205" width="243" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-7" value="基于块: 纹理合成/PatchMatch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="279" y="303" width="215" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-8" value="2016-19: GAN+门控卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="419" width="231" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-9" value="2020-22: Transformer/频域 LaMa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="518" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-10" value="2022-24: 扩散模型 DDPM/SD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="291" y="634" width="191" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-11" value="2024至今: 多模态/意图对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="750" width="257" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-12" value="模式演进: 掩码感知/多阶段融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="848" width="213" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-13" value="注意力: 上下文/全局/交叉关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="276" y="964" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-14" value="损失重构: 像素/感知/分布学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1080" width="206" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-15" value="先验整合: DIP/频域/生成先验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1196" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-16" value="TRS: 扩散残差采样-细节还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="1312" width="227" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-17" value="FMH: Mamba自回归-结构建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="272" y="1428" width="230" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.02;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-2" target="gfNI4ILFNZ9B_shdAE2y-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.02;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="667" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=1.02;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-3" target="gfNI4ILFNZ9B_shdAE2y-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-4" target="gfNI4ILFNZ9B_shdAE2y-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-4" target="gfNI4ILFNZ9B_shdAE2y-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-4" target="gfNI4ILFNZ9B_shdAE2y-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="1113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-4" target="gfNI4ILFNZ9B_shdAE2y-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="1229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="1345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfNI4ILFNZ9B_shdAE2y-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-5" target="gfNI4ILFNZ9B_shdAE2y-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="233" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
