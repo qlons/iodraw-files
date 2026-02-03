@@ -206,11 +206,6 @@
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-5" value="本文定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="1379" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfNI4ILFNZ9B_shdAE2y-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="240.00000000000023" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gfNI4ILFNZ9B_shdAE2y-6" value="基于PDE: 扩散/流体/行进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="205" width="243" height="48" as="geometry" />
         </mxCell>
@@ -330,9 +325,6 @@
               <mxPoint x="233" y="1461" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gfNI4ILFNZ9B_shdAE2y-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="310" width="92" height="328" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
